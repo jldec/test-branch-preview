@@ -1,0 +1,11 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "test-branch-preview",
+  "compatibility_date": "2025-07-29",
+  "assets": {
+    "directory": "assets"
+  },
+  "observability": {
+    "enabled": true
+  }
+}

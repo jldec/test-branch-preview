@@ -1,0 +1,9 @@
+{
+	"name": "test-branch-preview",
+	"scripts": {
+		"dev": "wrangler dev"
+	},
+	"dependencies": {
+		"wrangler": "^4.26.0"
+	}
+}
