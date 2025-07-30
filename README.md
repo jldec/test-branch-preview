@@ -1,4 +1,4 @@
-# test-branch-preview
+# test-branch-preview (main branch)
 
 This worker is deployed at https://test-branch-preview.jldec.workers.dev/
 
