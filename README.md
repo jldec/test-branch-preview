@@ -1,5 +1,5 @@
-# test-branch-preview
+# test-branch-preview (branchy-branch branch)
 
 This worker is deployed at https://test-branch-preview.jldec.workers.dev/
 
-Pushes to main also update the preview branch at https://branchy-branch-test-branch-preview.jldec.workers.dev/
+Pushes to main also update the preview branches at https://branchy-branch-test-branch-preview.jldec.workers.dev/ and https://another-test-branch-preview.jldec.workers.dev/
